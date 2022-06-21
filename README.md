@@ -13,12 +13,13 @@ This repository contains the data science infusion adopter modules of a course i
 </ul>
   
 # Data Science Infusion
-The primary focus of this reposity concerns only the portion of the course where the data science infusion modules were implemented as part of the CADS adopter program. This course contains a single module, containing the following material:
+The primary focus of this reposity concerns only the portion of the course where the data science infusion modules were implemented as part of the CADS adopter program. This course contains a single data science infused module containing the following material:
 <ul>
+  <li>Lecture - Data Management and Analysis in Psychological Sciences</li>
+  
 </ul>
 
 # Navigating The Repository
-
 <table>
   <tbody>
     <tr>
