@@ -13,7 +13,7 @@ This repository contains the data science infusion adopter modules of a course i
 </ul>
   
 # Data Science Infusion
-The primary focus of this reposity concerns only the portion of the course where the data science infusion modules were implemented as part of the CADS adopter program. This course contains a single data science infused module containing the following material:
+The primary focus of this reposity concerns only the portion of the course where the data science infusion modules were implemented as part of the CADS adopter program. This course contains a single data science infused module consisting of the following material:
 <ul>
   <li>Lecture - Data Management and Analysis in Psychological Sciences</li>
   <li>Assignment - Analyzing Data on Contemporary Issues in Psychological Sciences</li>
@@ -28,6 +28,14 @@ The primary focus of this reposity concerns only the portion of the course where
     </tr>
     <tr>
       <td><a href="https://github.com/CADS-WSSU/PSY-4425-Contemporary-Issues-in-Psychological-Sciences-Data-Science-Module/tree/main/Lectures">Lecture Notes</a></td>
+      <td>
+        <ul>
+          <li>Data Management and Analysis in Psychological Sciences</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="">Hands On Assignment</a></td>
       <td>
         <ul>
           <li>Data Management and Analysis in Psychological Sciences</li>
