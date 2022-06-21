@@ -4,6 +4,8 @@ This is a repository containing the material regarding data science modules impl
 # Contemporary Issues in Psychological Sciences
 This repository contains the data science infusion adopter modules of a course in Contemporary Issues in Psychological Sciences as taught by Dr. Kelly A. Minor. The Contemporary Issues in Psychological Sciences course is offered in the Psychological Sciences department once a year in the Spring at Winston-Salem State University. This course is only intended for upper level undergraduates majoring in Psychological Sciences.
 
+The focus of this course examines theories, research, and applications of a selected current issue in psychology with the specific topic chosen by the instructor. This course also provides students with opportunities with an in-depth focus in an area of psychology congruent with faculty research interest. 
+
 # Learning Outcomes
 <ul>
   <li>Students will be able to think critically about how various data sources contribute to the psychological sciences and formulate appropriate research questions.</li>
