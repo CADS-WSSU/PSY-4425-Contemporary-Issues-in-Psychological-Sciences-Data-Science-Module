@@ -26,17 +26,10 @@ The primary focus of this reposity concerns only the portion of the course where
       <th>Information In Each Folder</th>
     </tr>
     <tr>
-      <td><a href="https://github.com/CADS-WSSU/SPM3301-Sports-Marketing-and-Promotion-Data-Science-Module/tree/main/Lectures">Lecture Notes</a></td>
+      <td><a href="https://github.com/CADS-WSSU/PSY-4425-Contemporary-Issues-in-Psychological-Sciences-Data-Science-Module/tree/main/Lectures">Lecture Notes</a></td>
       <td>
         <ul>
-          <li>Module 1 - Introduction to Data and Data Analytics
-          </li>
-          <li>Module 2 - Descriptive Statistics
-          </li>
-          <li>Module 3 - Hypothesis Testing
-          </li>
-          <li>Module 4 - Regression Analysis
-          </li>
+          <li>Data Management and Analysis in Psychological Sciences</li>
         </ul>
       </td>
     </tr>
