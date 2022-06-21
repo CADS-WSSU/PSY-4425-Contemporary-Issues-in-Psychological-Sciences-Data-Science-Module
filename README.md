@@ -15,10 +15,6 @@ This repository contains the data science infusion adopter modules of a course i
 # Data Science Infusion
 The primary focus of this reposity concerns only the portion of the course where the data science infusion modules were implemented as part of the CADS adopter program. This course contains a single module, containing the following material:
 <ul>
-  <li>Students will be able to think critically about how various data sources contribute to the psychological sciences and formulate appropriate research questions.</li>
-  <li>Students will be able to identify large, publicly available datasets suitable for use in psychological research.</li>
-  <li>Students will be able to analyze large, publicly available data using Excel and/or the Statistical Package for Social Sciences (SPSS) software.</li>
-  <li>Students will be able to interpret and present statistical results in written in visual formats.</li>
 </ul>
 
 # Contact
