@@ -12,3 +12,16 @@ This repository contains the data science infusion adopter modules of a course i
   <li>Students will be able to interpret and present statistical results in written in visual formats.</li>
 </ul>
   
+# Data Science Infusion
+The primary focus of this reposity concerns only the portion of the course where the data science infusion modules were implemented as part of the CADS adopter program. This course contains a single module, containing the following material:
+<ul>
+  <li>Students will be able to think critically about how various data sources contribute to the psychological sciences and formulate appropriate research questions.</li>
+  <li>Students will be able to identify large, publicly available datasets suitable for use in psychological research.</li>
+  <li>Students will be able to analyze large, publicly available data using Excel and/or the Statistical Package for Social Sciences (SPSS) software.</li>
+  <li>Students will be able to interpret and present statistical results in written in visual formats.</li>
+</ul>
+
+# Contact
+For questions or additional support regarding this module, feel free to reach out to us:
+* [Kelly A. Minor, Instructor of this module and Assistant Professor of Psychological Sciences of Winston-Salem State University](mailto:minork@wssu.edu)
+* [Debzani Deb, Founding Director of the Center for Applied Data Science (CADS) at Winston-Salem State University](mailto:debd@wssu.edu)
