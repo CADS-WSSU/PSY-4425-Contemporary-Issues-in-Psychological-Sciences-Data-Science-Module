@@ -35,7 +35,7 @@ The primary focus of this reposity concerns only the portion of the course where
       </td>
     </tr>
     <tr>
-      <td><a href="">Hands On Assignment</a></td>
+      <td><a href="https://github.com/CADS-WSSU/PSY-4425-Contemporary-Issues-in-Psychological-Sciences-Data-Science-Module/tree/main/Hands%20On%20Assignment">Hands On Assignment</a></td>
       <td>
         <ul>
           <li>Data Management and Analysis in Psychological Sciences</li>
