@@ -17,8 +17,8 @@ The focus of this course examines theories, research, and applications of a sele
 # Data Science Infusion
 The primary focus of this reposity concerns only the portion of the course where the data science infusion modules were implemented as part of the CADS adopter program. This course contains a single data science infused module consisting of the following material:
 <ul>
-  <li>Lecture - Data Management and Analysis in Psychological Sciences</li>
-  <li>Assignment - Analyzing Data on Contemporary Issues in Psychological Sciences</li>
+  <li>Lecture: Data Management and Analysis in Psychological Sciences</li>
+  <li>Assignment: Analyzing Data on Contemporary Issues in Psychological Sciences</li>
 </ul>
 
 # Navigating The Repository
