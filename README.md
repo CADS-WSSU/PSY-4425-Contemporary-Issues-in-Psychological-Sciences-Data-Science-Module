@@ -17,6 +17,32 @@ The primary focus of this reposity concerns only the portion of the course where
 <ul>
 </ul>
 
+# Navigating The Repository
+
+<table>
+  <tbody>
+    <tr>
+      <th>Folders In Repository</th>
+      <th>Information In Each Folder</th>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/CADS-WSSU/SPM3301-Sports-Marketing-and-Promotion-Data-Science-Module/tree/main/Lectures">Lecture Notes</a></td>
+      <td>
+        <ul>
+          <li>Module 1 - Introduction to Data and Data Analytics
+          </li>
+          <li>Module 2 - Descriptive Statistics
+          </li>
+          <li>Module 3 - Hypothesis Testing
+          </li>
+          <li>Module 4 - Regression Analysis
+          </li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 # Contact
 For questions or additional support regarding this module, feel free to reach out to us:
 * [Kelly A. Minor, Instructor of this module and Assistant Professor of Psychological Sciences of Winston-Salem State University](mailto:minork@wssu.edu)
